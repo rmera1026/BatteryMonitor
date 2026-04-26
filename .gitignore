@@ -1,0 +1,9 @@
+Debug/
+*.elf
+*.map
+*.list
+*.o
+*.d
+*.su
+*.cyclo
+stm32-ssd1306/
